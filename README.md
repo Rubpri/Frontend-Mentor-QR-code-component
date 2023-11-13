@@ -4,7 +4,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://frontend-mentor-qr-code-component-chi.vercel.app/)
+- Live Site URL: [https://frontend-mentor-qr-code-component-chi.vercel.app/](https://frontend-mentor-qr-code-component-chi.vercel.app/)
 
 ### Built with
 
